@@ -1,0 +1,29 @@
+{
+  "name": "cyberpunk-crimson",
+  "displayName": "Cyberpunk Crimson",
+  "description": "Tema oscuro cyberpunk con acento rojo/carmesí, inspirado en Cyberpunk-Terminal-Theme. Optimizado para Python y sesiones largas de programación.",
+  "version": "1.0.0",
+  "publisher": "local-dev",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "red",
+    "dark",
+    "python",
+    "crimson"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk Crimson-color-theme.json"
+      }
+    ]
+  }
+}
