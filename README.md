@@ -112,6 +112,7 @@ No hace falta tocar nada más.
 Esto se logra modificando el settings.json de VS Code:
 
 "editor.cursorBlinking": "phase",
+
 "editor.cursorSmoothCaretAnimation": "on"
 
 Le da al cursor un parpadeo más suave/orgánico en vez del típico parpadeo 
