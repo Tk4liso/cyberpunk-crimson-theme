@@ -1,0 +1,16 @@
+{
+  // Config para lanzar un "Extension Development Host" al presionar F5.
+  // VS Code abre una segunda ventana con esta carpeta cargada como extensión,
+  // sin necesidad de instalarla ni empaquetarla.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Theme (Extension Development Host)",
+      "type": "extensionHost",
+      "request": "launch",
+      "args": [
+        "--extensionDevelopmentPath=${workspaceFolder}"
+      ]
+    }
+  ]
+}
