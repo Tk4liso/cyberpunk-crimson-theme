@@ -3,6 +3,9 @@ A custom Visual Studio Code theme inspired by Cyberpunk Terminal Theme (also in 
 
 <img width="1916" height="716" alt="image" src="https://github.com/user-attachments/assets/32708845-4e9d-4fe1-9677-59a250e7df5a" />
 
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/bdcfd8ea-8eab-4f0b-a326-c7fb7a0a2ae2" />
+
+
 # Cyberpunk Crimson — Tema para VS Code
 
 Tema oscuro cyberpunk con **rojo carmesí como acento** (no como color dominante),
