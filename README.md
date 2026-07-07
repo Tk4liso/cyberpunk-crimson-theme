@@ -118,6 +118,23 @@ Esto se logra modificando el settings.json de VS Code:
 Le da al cursor un parpadeo más suave/orgánico en vez del típico parpadeo 
 cuadrado. Se siente un poco más "vivo", en línea con la estética.
 
+Para añadir una imagen de fondo instala la extensión Background de Shalldie. Luego en el JSON de preferencias agregar el siguiente código:
+
+```
+"background.enabled": true,
+    "background.useDefault": false,
+
+    "background.editor": {
+        "images": [
+            "file:///C:<PATH>/cyberpunk-crimson-theme/background/blade-runner-girl-background.png"
+        ],
+        "style": {
+            "opacity": 0.25,
+            "background-position": "right center",
+            "background-size": "cover"
+        }
+    }
+```
 
 ## Créditos
 
